@@ -1,0 +1,4 @@
+pass_id,register_number,student_name,route_number,boarding_stop,validity_date,amount_paid
+P3001,STU301,Meera,4,Library Gate,2026-12-31,2200.00
+P3002,STU302,Arun,8,North Stop,2026-12-31,3000.00
+P3003,STU303,Leela,0,South Stop,2026-12-31,1500.00

@@ -1,0 +1,7 @@
+CREATE DATABASE IF NOT EXISTS transport_db;
+USE transport_db;
+
+CREATE TABLE IF NOT EXISTS users (
+    id VARCHAR(64) PRIMARY KEY,
+    pwd VARCHAR(255) NOT NULL
+);
